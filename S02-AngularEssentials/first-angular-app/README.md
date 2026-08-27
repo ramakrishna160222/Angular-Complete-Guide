@@ -103,3 +103,8 @@ This project is a learning/demo Angular app inspired by a course project. It foc
 ## License
 
 This project is for educational/demo purposes.
+
+
+<img width="947" height="488" alt="image" src="https://github.com/user-attachments/assets/31cff23f-7900-4395-ae49-c7f3707b228d" />
+<img width="953" height="493" alt="image" src="https://github.com/user-attachments/assets/f91cc40a-7664-4db1-b2c2-97eecc449f8a" />
+
