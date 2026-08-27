@@ -96,13 +96,6 @@ first-angular-app/
 └── README.md
 ```
 
-## Notes
-
-This project is a learning/demo Angular app inspired by a course project. It focuses on core Angular fundamentals such as components, inputs, outputs, services, and conditional rendering.
-
-## License
-
-This project is for educational/demo purposes.
 
 
 <img width="947" height="488" alt="image" src="https://github.com/user-attachments/assets/31cff23f-7900-4395-ae49-c7f3707b228d" />
