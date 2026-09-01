@@ -176,3 +176,8 @@ Tests use Jasmine and Karma. This repository currently contains the application 
 - [Angular NgModules](https://angular.dev/guide/ngmodules)
 - [Angular template-driven forms](https://angular.dev/guide/forms)
 - [RxJS documentation](https://rxjs.dev/)
+
+
+<img width="560" height="499" alt="image" src="https://github.com/user-attachments/assets/b996fc8f-1c2d-4481-8919-5b0d2dfd3ce3" />
+
+<img width="559" height="512" alt="image" src="https://github.com/user-attachments/assets/0b818407-3a08-4853-a06c-8175c50f3ed3" />
